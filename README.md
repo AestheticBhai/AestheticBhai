@@ -3,6 +3,9 @@
 Hi, I'm Karan, a Web3 security researcher who loves to compete and secure smart contracts. I have been auditing EVM-based smart contracts since October 2024.
 
 
+X - [@Karan_B25](https://x.com/Karan_B25)
+
+LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b/)
 
 
 | Username | Platform |
