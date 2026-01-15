@@ -2,11 +2,9 @@
 
 Hi, I'm Karan, a Web3 security researcher who loves to compete and secure smart contracts. I have been auditing EVM-based smart contracts since October 2024.
 
-
 X - [@Karan_B25](https://x.com/Karan_B25)
 
 LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b/)
-
 
 | Username | Platform |
 |--|--|
@@ -22,11 +20,14 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 | Private | Private | 1 C, 2 H, 3 M, 1 L |
 | HedgeXDAO | Private | 2 M |
 | Demex Auction | Private | 4 H, 3 M, 5 L |
+| Private | Private | 1 H, 3 L |
 
 # Audit Contests
 
 | Date | Contest | Platform | Findings | Rank |
 |--|--|--|--|--|
+| Nov 2025 | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | Sherlock | 3 Issues | #28 |
+| Nov 2025 | [Privacy Cash](https://audits.sherlock.xyz/contests/1160) | Sherlock | 1 H, 3 L | #39 |
 | Sep 2025 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Sherlock | 1 M | #7 |
 | Jul 2025 | [pike-tapio-monrepo](https://cantina.xyz/competitions/a0806644-7d91-457a-a08d-aee2db73f352) | Cantina | 2 M | #12 |
 | Jun 2025 | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991) | Sherlock | 1 H, 1 M | #69 |
