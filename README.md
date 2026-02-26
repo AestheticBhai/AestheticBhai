@@ -26,16 +26,17 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 
 | Date | Contest | Platform | Findings | Rank |
 |--|--|--|--|--|
-| Nov 2025 | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | Sherlock | 1 H, 2 M| #28 |
-| Nov 2025 | [Privacy Cash](https://audits.sherlock.xyz/contests/1160) | Sherlock | - | #39 |
-| Sep 2025 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Sherlock | 1 M | #7 |
-| Jul 2025 | [pike-tapio-monrepo](https://cantina.xyz/competitions/a0806644-7d91-457a-a08d-aee2db73f352) | Cantina | 2 M | #12 |
-| Jun 2025 | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991) | Sherlock | 1 H, 1 M | #69 |
-| May 2025 | [LayerEdge - Staking](https://audits.sherlock.xyz/contests/952) | Sherlock | 1 M | #7 |
 | Apr 2025 | [liquidity-book-vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Cantina | 1 H | #3 🥉 |
-| Mar 2025 | [PinLink: RWA-Tokenized DePIN Marketplace](https://audits.sherlock.xyz/contests/852) | Sherlock | - | #33 |
-| Feb 2025 | [RAAC Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | CodeHawks | 5 H, 4 M, 1 L | #247 |
-| Jan 2025 | [Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi) | CodeHawks | - | #5 |
+| Jan 2025 | [Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi) | CodeHawks | Private | #5 |
+| Sep 2025 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Sherlock | 1 M | #7 |
+| May 2025 | [LayerEdge - Staking](https://audits.sherlock.xyz/contests/952) | Sherlock | 1 M | #7 |
 | Dec 2024 | [Numa](https://audits.sherlock.xyz/contests/554) | Sherlock | 1 H | #10 |
+| Jul 2025 | [pike-tapio-monrepo](https://cantina.xyz/competitions/a0806644-7d91-457a-a08d-aee2db73f352) | Cantina | 2 M | #12 |
+| Nov 2025 | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | Sherlock | 1 H, 2 M | #28 |
+| Mar 2025 | [PinLink: RWA-Tokenized DePIN Marketplace](https://audits.sherlock.xyz/contests/852) | Sherlock | Airdrop | #33 |
 | Nov 2024 | [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675) | Sherlock | 1 H | #33 |
+| Nov 2025 | [Privacy Cash](https://audits.sherlock.xyz/contests/1160) | Sherlock | Airdrop | #39 |
 | Oct 2024 | [Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria) | CodeHawks | 1 H, 3 M, 1 L | #57 |
+| Jun 2025 | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991) | Sherlock | 1 H, 1 M | #69 |
+| Aug 2025 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | Code4rena | 1 Finding | #107 |
+| Feb 2025 | [RAAC Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | CodeHawks | 5 H, 4 M, 1 L | #247 ||
