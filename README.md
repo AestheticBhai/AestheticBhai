@@ -38,5 +38,5 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 | Nov 2025 | [Privacy Cash](https://audits.sherlock.xyz/contests/1160) | Sherlock | Airdrop | #39 |
 | Oct 2024 | [Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria) | CodeHawks | 1 H, 3 M, 1 L | #57 |
 | Jun 2025 | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991) | Sherlock | 1 H, 1 M | #69 |
-| Aug 2025 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | Code4rena | 1 Finding | #107 |
+| Aug 2025 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | Code4rena | 1 M, 3 L | #107 |
 | Feb 2025 | [RAAC Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | CodeHawks | 5 H, 4 M, 1 L | #247 ||
