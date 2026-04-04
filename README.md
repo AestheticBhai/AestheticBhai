@@ -8,11 +8,10 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 
 | Username | Platform |
 |--|--|
+| [AestheticBhai](https://audits.sherlock.xyz/watson/AestheticBhai) | Sherlock |
 | [AestheticBhai](https://cantina.xyz/u/AestheticBhai) | Cantina |
-| [aestheticbhai](https://code4rena.com/@aestheticbhai) | Code4rena |
-| [AestheticBhai](https://audits.sherlock.xyz/watson/AestheticBhai) | Sherlock |
 | [aestheticbhai](https://profiles.cyfrin.io/u/aestheticbhai) | CodeHawks |
-| [AestheticBhai](https://audits.sherlock.xyz/watson/AestheticBhai) | Sherlock |
+| [aestheticbhai](https://code4rena.com/@aestheticbhai) | Code4rena |
 
 # Private Engagements
 
