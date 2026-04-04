@@ -8,9 +8,11 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 
 | Username | Platform |
 |--|--|
-| [AestheticBhai](https://audits.sherlock.xyz/watson/AestheticBhai) | Sherlock |
 | [AestheticBhai](https://cantina.xyz/u/AestheticBhai) | Cantina |
+| [aestheticbhai](https://code4rena.com/@aestheticbhai) | Code4rena |
+| [AestheticBhai](https://audits.sherlock.xyz/watson/AestheticBhai) | Sherlock |
 | [aestheticbhai](https://profiles.cyfrin.io/u/aestheticbhai) | CodeHawks |
+| [AestheticBhai](https://audits.sherlock.xyz/watson/AestheticBhai) | Sherlock |
 
 # Private Engagements
 
@@ -27,6 +29,7 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 | Date | Contest | Platform | Findings | Rank |
 |--|--|--|--|--|
 | Apr 2025 | [liquidity-book-vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Cantina | 1 H | #3 🥉 |
+| MAR 2026 | [Intuition - Powered by $TRUST](https://code4rena.com/audits/2026-03-intuition) | Code4rena | 1M | #4 |
 | Jan 2025 | [Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi) | CodeHawks | Private | #5 |
 | Sep 2025 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Sherlock | 1 M | #7 |
 | May 2025 | [LayerEdge - Staking](https://audits.sherlock.xyz/contests/952) | Sherlock | 1 M | #7 |
