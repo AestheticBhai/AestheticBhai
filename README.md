@@ -36,6 +36,7 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 | Dec 2024 | [Numa](https://audits.sherlock.xyz/contests/554) | Sherlock | 1 H | #10 |
 | Jul 2025 | [pike-tapio-monrepo](https://cantina.xyz/competitions/a0806644-7d91-457a-a08d-aee2db73f352) | Cantina | 2 M | #12 |
 | Mar 2026 | [Olas-Powered by the OLAS Token](https://code4rena.com/audits/2026-01-olas) | Code4rena | 1 H | #22 |
+| Apr 2026 | [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Code4rena | 1 M | #22 |
 | Nov 2025 | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | Sherlock | 1 H, 2 M | #28 |
 | Mar 2025 | [PinLink: RWA-Tokenized DePIN Marketplace](https://audits.sherlock.xyz/contests/852) | Sherlock | Airdrop | #33 |
 | Nov 2024 | [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675) | Sherlock | 1 H | #33 |
