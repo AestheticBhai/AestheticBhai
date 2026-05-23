@@ -28,6 +28,7 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 | Date | Contest | Platform | Findings | Rank |
 |--|--|--|--|--|
 | Apr 2025 | [liquidity-book-vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Cantina | 1 H | #3 🥉 |
+| May 2026 | [Monetrix-yield layer for Hyperliquid](https://code4rena.com/audits/2026-04-monetrix) | Code4rena | 1 M | #3 🥉 |
 | Mar 2026 | [Intuition - Powered by $TRUST](https://code4rena.com/audits/2026-03-intuition) | Code4rena | 1M | #4 |
 | Jan 2025 | [Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi) | CodeHawks | Private | #5 |
 | Sep 2025 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Sherlock | 1 M | #7 |
