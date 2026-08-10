@@ -12,6 +12,7 @@ LinkedIn - [Karan Bhardwaj](https://www.linkedin.com/in/karan-bhardwaj-688a6b26b
 | [AestheticBhai](https://cantina.xyz/u/AestheticBhai) | Cantina |
 | [aestheticbhai](https://profiles.cyfrin.io/u/aestheticbhai) | CodeHawks |
 | [aestheticbhai](https://code4rena.com/@aestheticbhai) | Code4rena |
+| [AestheticBhai](https://hackenproof.com/hackers/aestheticbhai?tab=achievements) | HackenProof|
 
 # Private Engagements
 
