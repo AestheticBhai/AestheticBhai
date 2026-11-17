@@ -13,7 +13,7 @@ I participate in competitive audits, private security reviews, and bug bounty pr
 - 🥉 **3rd place — Liquidity Book Vaults (Cantina, 2025)**
 - 🥉 **3rd place — Monetrix (Code4rena, 2026)**
 - 🏆 **10 top-10 placements** across Code4rena, Cantina, Sherlock, and CodeHawks.
-- 🛡️ **Critical, High, and Medium findings** across private security engagements.
+- 🛡️ **100 plus findings** across private security engagements.
 
 ## Security Profiles
 
