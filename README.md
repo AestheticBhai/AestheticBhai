@@ -19,9 +19,9 @@ I participate in competitive audits, private security reviews, and bug bounty pr
 
 | Platform | Profile |
 |---|---|
+| Code4rena | [aestheticbhai](https://code4rena.com/@aestheticbhai) |
 | Sherlock | [AestheticBhai](https://audits.sherlock.xyz/watson/AestheticBhai) |
 | Cantina | [AestheticBhai](https://cantina.xyz/u/AestheticBhai) |
-| Code4rena | [aestheticbhai](https://code4rena.com/@aestheticbhai) |
 | CodeHawks | [aestheticbhai](https://profiles.cyfrin.io/u/aestheticbhai) |
 | HackenProof | [AestheticBhai](https://hackenproof.com/hackers/aestheticbhai?tab=achievements) |
 
