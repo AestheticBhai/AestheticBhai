@@ -40,7 +40,7 @@
 | Sep 2025 | [Summer.fi — Governance V2](https://audits.sherlock.xyz/contests/1176) | Sherlock | 1 M | **#7** |
 | May 2025 | [LayerEdge — Staking](https://audits.sherlock.xyz/contests/952) | Sherlock | 1 M | **#7** |
 | Nov 2025 | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | Code4rena | 1 H, 1 M | **#8** |
-| Sep 2026 | Aerodrome (Aero) | Sherlock Audit Engine | — | **#10** |
+| Sep 2026 | Aerodrome (Aero) | Sherlock Audit Engine | 2 M | **#10** |
 | Dec 2024 | [Numa](https://audits.sherlock.xyz/contests/554) | Sherlock | 1 H | **#10** |
 | Jul 2025 | [Pike / Tapio Monrepo](https://cantina.xyz/competitions/a0806644-7d91-457a-a08d-aee2db73f352) | Cantina | 2 M | **#12** |
 | Mar 2026 | [Olas — Powered by the OLAS Token](https://code4rena.com/audits/2026-01-olas) | Code4rena | 1 H | **#22** |
