@@ -1,7 +1,7 @@
 
 # Karan Bhardwaj | Web3 Security Researcher
 
-- I'm **Karan (AestheticBhai)**, an independent Web3 security researcher focused on identifying vulnerabilities and securing blockchain protocols.
+- Hello I'm **Karan (AestheticBhai)**, an independent Web3 security researcher focused on identifying vulnerabilities and securing blockchain protocols.
 - I've been actively auditing since **October 2024**, working across multiple Web3 ecosystems, including EVM, Solana, Stellar/Soroban, and other blockchain environments
 - I participate in competitive audits and do private security reviews.
 -  I've made over $25K+ in public audit competition with various top placings showcasing my skills in the community
