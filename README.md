@@ -52,8 +52,6 @@
 | Jun 2025 | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991) | Sherlock | 1 H, 1 M | **#69** |
 | Apr 2026 | Clear Macro by Superfluid | Sherlock | — | **#70** |
 
-*C = Critical, H = High, M = Medium, L = Low.*
-
 
 ## Opportunities & Collaboration
 
